@@ -24,6 +24,9 @@ October 31, 2021: added additional support for mapping tree stems and differenti
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf1.png)
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf2.png)
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf3.png)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf4.png)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf5.png)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf6.png)
 
 **Part of University of British Columbia Vancouver Campus, Canada**
 ![Part of University of British Columbia Vancouver Campus, Canada](/screenshots/ubc.png)
