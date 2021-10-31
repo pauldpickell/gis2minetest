@@ -20,13 +20,20 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 ![Downtown Vancouver, Canada](/screenshots/vpl.png)
 
 **Malcolm Knapp Research Forest, British Columbia, Canada**
-October 31, 2021: added additional support for mapping tree stems and differentiating canopy structure
+New feature supports mapping tree stems and differentiating canopy structure
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf1.png)
+Trees with different heights are more apparent
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf2.png)
+Retention trees have very well defined canopies within the harvest block and stem locations are likely accurate
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf3.png)
+View from the ground at the edge of the harvest block, looking upslope
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf4.png)
+View from the ground under a retention tree within the harvest block
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf5.png)
+View from the ground under the canopy
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf6.png)
+Shading under the canopy is now much more apparent (time is 12PM noon)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf7.png)
 
 **Part of University of British Columbia Vancouver Campus, Canada**
 ![Part of University of British Columbia Vancouver Campus, Canada](/screenshots/ubc.png)
