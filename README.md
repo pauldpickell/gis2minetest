@@ -1,6 +1,9 @@
 # gis2minetest
 A python notebook for converting classified LiDAR las/laz files into [Minetest](https://www.minetest.net/downloads/) worlds.
 
+## Updates
+October 31, 2021: added additional support for mapping tree stems and differentiating canopy structure (see Malcolm Knapp Research Forest screenshots below).
+
 ## Sample Minetest Worlds
 Two prefabricated Minetest worlds are included. Extract the folder contents to your `~\Minetest\worlds\` directory and then start Minetest to load the worlds.
 
@@ -17,7 +20,10 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 ![Downtown Vancouver, Canada](/screenshots/vpl.png)
 
 **Malcolm Knapp Research Forest, British Columbia, Canada**
-![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf.png)
+October 31, 2021: added additional support for mapping tree stems and differentiating canopy structure
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf1.png)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf2.png)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf3.png)
 
 **Part of University of British Columbia Vancouver Campus, Canada**
 ![Part of University of British Columbia Vancouver Campus, Canada](/screenshots/ubc.png)
