@@ -16,11 +16,15 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 ![Downtown Vancouver, Canada](/screenshots/dt3.png)
 ![Downtown Vancouver, Canada](/screenshots/dt4.png)
 
-**BC Place, Canada**
-![Downtown Vancouver, Canada](/screenshots/bcplace.png)
+**BC Place, Vancouver, Canada**
 ![Downtown Vancouver, Canada](/screenshots/bcplace2.png)
 ![Downtown Vancouver, Canada](/screenshots/bcplace3.png)
 ![Downtown Vancouver, Canada](/screenshots/bcplace4.png)
+
+**Canada Place, Vancouver, Canada**
+![Downtown Vancouver, Canada](/screenshots/canadaplace1.png)
+![Downtown Vancouver, Canada](/screenshots/canadaplace2.png)
+![Downtown Vancouver, Canada](/screenshots/canadaplace3.png)
 
 **Vancouver Public Library Building, Canada** 
 ![Downtown Vancouver, Canada](/screenshots/vpl.png)
