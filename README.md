@@ -10,26 +10,26 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 ## Screenshots
 (The worlds are flipped on the y-axis before I squashed that bug)
 
-**Downtown Vancouver, Canada**
+## Downtown Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/dt.png)
 ![Downtown Vancouver, Canada](/screenshots/dt2.png)
 ![Downtown Vancouver, Canada](/screenshots/dt3.png)
 ![Downtown Vancouver, Canada](/screenshots/dt4.png)
 
-**BC Place, Vancouver, Canada**
+## BC Place, Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/bcplace2.png)
 ![Downtown Vancouver, Canada](/screenshots/bcplace3.png)
 ![Downtown Vancouver, Canada](/screenshots/bcplace4.png)
 
-**Canada Place, Vancouver, Canada**
+## Canada Place, Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/canadaplace1.png)
 ![Downtown Vancouver, Canada](/screenshots/canadaplace2.png)
 ![Downtown Vancouver, Canada](/screenshots/canadaplace3.png)
 
-**Vancouver Public Library Building, Canada** 
+## Vancouver Public Library Building, Canada
 ![Downtown Vancouver, Canada](/screenshots/vpl.png)
 
-**Malcolm Knapp Research Forest, British Columbia, Canada**
+## Malcolm Knapp Research Forest, British Columbia, Canada
 New feature supports mapping tree stems and differentiating canopy structure
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf1.png)
 Trees with different heights are more apparent
@@ -45,7 +45,7 @@ View from the ground under the canopy
 Shading under the canopy is now much more apparent (time is 12PM noon)
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf7.png)
 
-**Part of University of British Columbia Vancouver Campus, Canada**
+## Part of University of British Columbia Vancouver Campus, Canada
 ![Part of University of British Columbia Vancouver Campus, Canada](/screenshots/ubc.png)
 
 
