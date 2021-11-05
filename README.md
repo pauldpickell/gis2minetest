@@ -1,8 +1,9 @@
 # gis2minetest
-A python notebook for converting classified LiDAR las/laz files into [Minetest](https://www.minetest.net/downloads/) worlds.
+A python notebook for converting geospatial data including classified LiDAR las/laz files into [Minetest](https://www.minetest.net/downloads/) worlds.
 
 ## Updates
-October 31, 2021: added additional support for mapping tree stems and differentiating canopy structure (see Malcolm Knapp Research Forest screenshots below).
+November 5, 2021: Integrated Open Street Maps (OSM) data download using the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). Roads can now be mapped onto the terrain surface (see City of Vancouver screenshots below). Support for additional OSM map features coming soon. Also updated the `csv2terrain` mod to support a wider assortment of block types (e.g., stairs, slabs, and wool). Users are now encouraged to install the `csv2terrain` mod distributed with this repository when working with the `gis2minetest` script. Bug fixes.
+October 31, 2021: Added additional support for mapping tree stems and differentiating canopy structure (see Malcolm Knapp Research Forest screenshots below).
 
 ## Sample Minetest Worlds
 Two prefabricated Minetest worlds are included. Extract the folder contents to your `~\Minetest\worlds\` directory and then start Minetest to load the worlds.
@@ -23,9 +24,6 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 ![Downtown Vancouver, Canada](/screenshots/canadaplace2.png)
 ![Downtown Vancouver, Canada](/screenshots/canadaplace3.png)
 
-## Vancouver Public Library Building, Canada
-![Downtown Vancouver, Canada](/screenshots/vpl.png)
-
 ## Malcolm Knapp Research Forest, British Columbia, Canada
 New feature supports mapping tree stems and differentiating canopy structure
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf1.png)
@@ -41,8 +39,3 @@ View from the ground under the canopy
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf6.png)
 Shading under the canopy is now much more apparent (time is 12PM noon)
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf7.png)
-
-## Part of University of British Columbia Vancouver Campus, Canada
-![Part of University of British Columbia Vancouver Campus, Canada](/screenshots/ubc.png)
-
-
