@@ -7,14 +7,11 @@ October 31, 2021: added additional support for mapping tree stems and differenti
 ## Sample Minetest Worlds
 Two prefabricated Minetest worlds are included. Extract the folder contents to your `~\Minetest\worlds\` directory and then start Minetest to load the worlds.
 
-## Screenshots
-(The worlds are flipped on the y-axis before I squashed that bug)
-
 ## Downtown Vancouver, Canada
-![Downtown Vancouver, Canada](/screenshots/dt.png)
-![Downtown Vancouver, Canada](/screenshots/dt2.png)
-![Downtown Vancouver, Canada](/screenshots/dt3.png)
-![Downtown Vancouver, Canada](/screenshots/dt4.png)
+![Downtown Vancouver, Canada](/screenshots/downtownroads1.png)
+![Downtown Vancouver, Canada](/screenshots/downtownroads2.png)
+![Downtown Vancouver, Canada](/screenshots/downtownroads3.png)
+![Downtown Vancouver, Canada](/screenshots/downtownroads4.png)
 
 ## BC Place, Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/bcplace2.png)
