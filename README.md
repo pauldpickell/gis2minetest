@@ -1,5 +1,5 @@
 # gis2minetest
-A python notebook for converting geospatial data including classified LiDAR las/laz files into [Minetest](https://www.minetest.net/downloads/) worlds.
+A python notebook for converting geospatial data including classified LiDAR las/laz files and Open Street Maps data into [Minetest](https://www.minetest.net/downloads/) worlds.
 
 ## Updates
 November 5, 2021: Integrated Open Street Maps (OSM) data download using the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). Roads can now be mapped onto the terrain surface (see City of Vancouver screenshots below). Support for additional OSM map features coming soon. Also updated the `csv2terrain` mod to support a wider assortment of block types (e.g., stairs, slabs, and wool). This new feature allows slabs to be used to simulate sidewalks. Users are now encouraged to install the `csv2terrain` mod distributed with this repository when working with the `gis2minetest` script. Bug fixes.
