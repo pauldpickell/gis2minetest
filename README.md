@@ -1,6 +1,19 @@
 # gis2minetest
 A python notebook for converting geospatial data including classified LiDAR las/laz files and Open Street Maps data into [Minetest](https://www.minetest.net/downloads/) worlds.
 
+## Credit
+The following notebook was inspired and adapted from [James Wooton](https://gist.github.com/quantumjim/2d9ea27d0e0428a537b953ac04d3721b).
+
+[Prof. Paul Pickell](https://github.com/pauldpickell) (University of British Columbia) added additional instructions and functionality to change the scale, fill holes in the ground using inverse distance weighting interpolation, integrate Open Street Maps data, and visualize other elevation derivatives. Support for additional map layers beyond LiDAR data coming soon.
+
+Licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+## Before you get started
+- [Download Minetest](https://www.minetest.net/downloads/). To install, simply extract the contents somewhere that you have read/write access to on your computer (e.g., your user directory on Windows `C:\Users\YourUsername\minetest\`). Navigate to the `bin` folder, find the `minetest.exe` executable, right-click it and create a shortcut on your desktop or taskbar, then double-click the shortcut to run Minetest.
+- [Download the csv2terrain mod from this fork](https://github.com/pauldpickell/csv2terrain). To install, simply extract the contents into your `mods` folder within your Minetest directory. For example, `C:\Users\YourUsername\minetest\mods\`. Ensure that the folder is renamed `csv2terrain`. Run Minetest and create a new world with any options then press the `Select Mods` button and you should see `csv2terrain` listed there if the installation was done correctly.
+- Put the Jupyter notebook (gis2minetest.ipynb) in the same folder as your data or otherwise indicate the pathname and filename for your data. The LiDAR data can be in either `.las` or `.laz` format. It is assumed that the ground has been classified in this LiDAR point cloud.
+- Read the instructions within the Jupyter notebook.
+
 ## Updates
 November 7, 2021: Added new visualizations of bare Earth Digital Terrain Models (DTM) from a LiDAR point cloud and DTM derivatives such as aspect and Topographic Position Index (TPI). Stream-lined the instructions and bug fixes.
 
