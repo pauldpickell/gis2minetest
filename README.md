@@ -4,7 +4,7 @@ A python notebook for converting geospatial data including classified LiDAR las/
 ## Updates
 November 7, 2021: Added new visualizations of bare Earth Digital Terrain Models (DTM) from a LiDAR point cloud and DTM derivatives such as aspect and Topographic Position Index (TPI). Stream-lined the instructions and bug fixes.
 
-November 5, 2021: Integrated Open Street Maps (OSM) data download using the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). Roads can now be mapped onto the terrain surface (see City of Vancouver screenshots below). Support for additional OSM map features coming soon. Also updated the `csv2terrain` mod to support a wider assortment of block types (e.g., stairs, slabs, and wool). This new feature allows slabs to be used to simulate sidewalks. Users are now encouraged to install the `csv2terrain` mod distributed with this repository when working with the `gis2minetest` script. Bug fixes.
+November 5, 2021: Integrated Open Street Maps (OSM) data download using the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). Roads can now be mapped onto the terrain surface (see City of Vancouver screenshots below). Support for additional OSM map features coming soon. Also updated the `csv2terrain` mod to support a wider assortment of block types (e.g., stairs, slabs, and wool). This new feature allows slabs to be used to simulate sidewalks. Users are now encouraged to install [the `csv2terrain` mod from this fork](https://github.com/pauldpickell/csv2terrain) when working with the `gis2minetest` script. Bug fixes.
 
 October 31, 2021: Added additional support for mapping tree stems and differentiating canopy structure (see Malcolm Knapp Research Forest screenshots below).
 
