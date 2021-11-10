@@ -28,15 +28,15 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 
 ## Terrain Derivatives
 Visualizing aspect
-0-22.5° = red
-22.5-67.5° = orange
-67.5-112.5° = yellow
-112.5-157.5° = green
-157.5-202.5° = cyan
-202.5-247.5° = blue
-247.5-292.5° = violet
-292.5-337.5° = magenta
-337.5-360° = red
+- 0-22.5° = red
+- 22.5-67.5° = orange
+- 67.5-112.5° = yellow
+- 112.5-157.5° = green
+- 157.5-202.5° = cyan
+- 202.5-247.5° = blue
+- 247.5-292.5° = violet
+- 292.5-337.5° = magenta
+- 337.5-360° = red
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/aspect5.png)
 Visualizing slope
 - 0-18° = blue
