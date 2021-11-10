@@ -26,8 +26,7 @@ October 31, 2021: Added additional support for mapping tree stems and differenti
 ## Sample Minetest Worlds
 Two prefabricated Minetest worlds are included. Extract the folder contents to your `~\Minetest\worlds\` directory and then start Minetest to load the worlds.
 
-## Terrain Derivatives
-Visualizing aspect
+## Visualizing aspect
 - 0-22.5° = red
 - 22.5-67.5° = orange
 - 67.5-112.5° = yellow
@@ -38,16 +37,25 @@ Visualizing aspect
 - 292.5-337.5° = magenta
 - 337.5-360° = red
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/aspect5.png)
-Visualizing slope
+## Visualizing slope
 - 0-18° = blue
 - 18-36° = green
 - 36-54° = yellow
 - 54-72° = organe
 - 72-90° = red
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/slope.png)
-Visualizing hillshade
+## Visualizing hillshade
+- 0-64 = black
+- 64-128 = dark grey
+- 128-192 = grey
+- 192-255 = white
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/hillshade.png)
-Visualizing Topographic Position Index
+## Visualizing Topographic Position Index
+- < -1 = red (valley)
+- -1 to -0.5 = orange
+- -0.5 to 0.5 = yellow
+- 0.5 to 1 = green
+- > 1 = blue (ridge)
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/TPI.PNG)
 
 ## Downtown Vancouver, Canada
