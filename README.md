@@ -15,6 +15,8 @@ Licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gp
 - Read the instructions within the Jupyter notebook.
 
 ## Updates
+November 9, 2021: Added new visualizations of slope and hillshade. Bug fixes.
+
 November 7, 2021: Added new visualizations of bare Earth Digital Terrain Models (DTM) from a LiDAR point cloud and DTM derivatives such as aspect and Topographic Position Index (TPI). Stream-lined the instructions and bug fixes.
 
 November 5, 2021: Integrated Open Street Maps (OSM) data download using the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). Roads can now be mapped onto the terrain surface (see City of Vancouver screenshots below). Support for additional OSM map features coming soon. Also updated the `csv2terrain` mod to support a wider assortment of block types (e.g., stairs, slabs, and wool). This new feature allows slabs to be used to simulate sidewalks. Users are now encouraged to install [the `csv2terrain` mod from this fork](https://github.com/pauldpickell/csv2terrain) when working with the `gis2minetest` script. Bug fixes.
@@ -23,6 +25,16 @@ October 31, 2021: Added additional support for mapping tree stems and differenti
 
 ## Sample Minetest Worlds
 Two prefabricated Minetest worlds are included. Extract the folder contents to your `~\Minetest\worlds\` directory and then start Minetest to load the worlds.
+
+## Terrain Derivatives
+Visualizing aspect
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/aspect5.png)
+Visualizing slope
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/slope.png)
+Visualizing hillshade
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/hillshade.png)
+Visualizing Topographic Position Index
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/TPI.PNG)
 
 ## Downtown Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/downtownroads1.png)
@@ -41,8 +53,6 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 ![Downtown Vancouver, Canada](/screenshots/canadaplace3.png)
 
 ## Malcolm Knapp Research Forest, British Columbia, Canada
-Visualizing aspect
-![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/aspect5.png)
 New feature supports mapping tree stems and differentiating canopy structure
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrf1.png)
 Trees with different heights are more apparent
