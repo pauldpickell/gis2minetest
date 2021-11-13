@@ -38,17 +38,15 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 - 337.5-360° = red
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/aspect5.png)
 ## Visualizing slope
-- 0-18° = blue
-- 18-36° = green
-- 36-54° = yellow
-- 54-72° = organe
-- 72-90° = red
-![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/slope.png)
+Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color brewer palettes.
+- low slope = green
+- high slope = red
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrfslope8bit.png)
 ## Visualizing hillshade
-Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color palettes.
+Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color brewer palettes.
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrfhillshade8bit.png)
 ## Visualizing Topographic Position Index
-Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color palettes.
+Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color brewer palettes.
 - red (valley)
 - blue (ridge)
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrftpi8bit.png)
