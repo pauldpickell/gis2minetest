@@ -51,7 +51,7 @@ Experimenting with 8-bit color depth in the block textures (256 block types) for
 Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color palettes.
 - red (valley)
 - blue (ridge)
-![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrftpi8bit.PNG)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrftpi8bit.png)
 
 ## Downtown Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/downtownroads1.png)
