@@ -45,18 +45,13 @@ Two prefabricated Minetest worlds are included. Extract the folder contents to y
 - 72-90° = red
 ![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/slope.png)
 ## Visualizing hillshade
-- 0-64 = black
-- 64-128 = dark grey
-- 128-192 = grey
-- 192-255 = white
-![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/hillshade.png)
+Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color palettes.
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrfhillshade8bit.png)
 ## Visualizing Topographic Position Index
-- < -1 = red (valley)
-- -1 to -0.5 = orange
-- -0.5 to 0.5 = yellow
-- 0.5 to 1 = green
-- > 1 = blue (ridge)
-![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/TPI.PNG)
+Experimenting with 8-bit color depth in the block textures (256 block types) for visualizing different color palettes.
+- red (valley)
+- blue (ridge)
+![Malcolm Knapp Research Forest, British Columbia, Canada](/screenshots/mkrftpi8bit.PNG)
 
 ## Downtown Vancouver, Canada
 ![Downtown Vancouver, Canada](/screenshots/downtownroads1.png)
